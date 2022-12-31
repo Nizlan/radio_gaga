@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/a1/programs/radio_ga/build/just_audio/intermediates/merged_res/release/menu/example_menu.xml",
+        "source": "/Users/a1/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/res/menu/example_menu.xml"
+    },
+    {
+        "merged": "/Users/a1/programs/radio_ga/build/just_audio/intermediates/merged_res/release/menu/example_menu2.xml",
+        "source": "/Users/a1/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/res/menu/example_menu2.xml"
+    }
+]
