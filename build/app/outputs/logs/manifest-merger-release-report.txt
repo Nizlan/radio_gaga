@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:6:4-50:19
+INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:6:4-50:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/a1/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/a1/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.core:core:1.7.0] /Users/a1/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
@@ -10,25 +10,25 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/a1/.
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] /Users/a1/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:7:9-33
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:7:9-33
 	android:icon
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:9:9-43
 	android:usesCleartextTraffic
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:10:9-44
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:10:9-44
 	android:name
-		INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:8:9-42
+		INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:8:9-42
 manifest
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:1:1-51:12
-INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:1:1-51:12
-INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:1:1-51:12
-INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:1:1-51:12
-MERGED from [:just_audio] /Users/a1/programs/radio_ga/build/just_audio/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
-MERGED from [:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-17:12
-MERGED from [:audio_service] /Users/a1/programs/radio_ga/build/audio_service/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
-MERGED from [:sqflite] /Users/a1/programs/radio_ga/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
-MERGED from [:path_provider_android] /Users/a1/programs/radio_ga/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
-MERGED from [:audio_session] /Users/a1/programs/radio_ga/build/audio_session/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:1:1-51:12
+MERGED from [:just_audio] /Users/a1/programs/radio_gaga/build/just_audio/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [:audio_service] /Users/a1/programs/radio_gaga/build/audio_service/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] /Users/a1/programs/radio_gaga/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] /Users/a1/programs/radio_gaga/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:audio_session] /Users/a1/programs/radio_gaga/build/audio_session/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/a1/.gradle/caches/transforms-3/246793f755122fe14a5802655438cb75/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/a1/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/a1/.gradle/caches/transforms-3/9baafc8faf7ca496894bd197e67f88be/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
@@ -61,51 +61,51 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/a1/.gradle
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/a1/.gradle/caches/transforms-3/b0ed3bc1190a335fc620be73cef0fa31/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/a1/.gradle/caches/transforms-3/ed9734c73cdec898947618088fbe87b0/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/a1/.gradle/caches/transforms-3/58e3540d7f5a5bac6af9a8f8fab44363/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:1:1-51:12
-INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:1:1-51:12
-INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:1:1-51:12
 	package
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:2:5-35
-		INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:1:1-51:12
-		INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:1:1-51:12
+		INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:1:1-51:12
-		INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:1:1-51:12
+		INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:3:5-66
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:3:5-66
 	android:name
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:3:22-64
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:3:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:4:6-68
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:4:6-68
 	android:name
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:4:23-66
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:4:23-66
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:5:5-76
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:5:5-76
 	android:name
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:5:22-74
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:5:22-74
 uses-sdk
-INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
-MERGED from [:just_audio] /Users/a1/programs/radio_ga/build/just_audio/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:just_audio] /Users/a1/programs/radio_ga/build/just_audio/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:audio_service] /Users/a1/programs/radio_ga/build/audio_service/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:audio_service] /Users/a1/programs/radio_ga/build/audio_service/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:sqflite] /Users/a1/programs/radio_ga/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:sqflite] /Users/a1/programs/radio_ga/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:path_provider_android] /Users/a1/programs/radio_ga/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:path_provider_android] /Users/a1/programs/radio_ga/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:audio_session] /Users/a1/programs/radio_ga/build/audio_session/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:audio_session] /Users/a1/programs/radio_ga/build/audio_session/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
+MERGED from [:just_audio] /Users/a1/programs/radio_gaga/build/just_audio/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:just_audio] /Users/a1/programs/radio_gaga/build/just_audio/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_service] /Users/a1/programs/radio_gaga/build/audio_service/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_service] /Users/a1/programs/radio_gaga/build/audio_service/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/a1/programs/radio_gaga/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] /Users/a1/programs/radio_gaga/build/sqflite/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/a1/programs/radio_gaga/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] /Users/a1/programs/radio_gaga/build/path_provider_android/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_session] /Users/a1/programs/radio_gaga/build/audio_session/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_session] /Users/a1/programs/radio_gaga/build/audio_session/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/a1/.gradle/caches/transforms-3/246793f755122fe14a5802655438cb75/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/a1/.gradle/caches/transforms-3/246793f755122fe14a5802655438cb75/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/a1/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
@@ -170,96 +170,96 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/a1/.gradle/cac
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/a1/.gradle/caches/transforms-3/ed9734c73cdec898947618088fbe87b0/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/a1/.gradle/caches/transforms-3/58e3540d7f5a5bac6af9a8f8fab44363/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/a1/.gradle/caches/transforms-3/58e3540d7f5a5bac6af9a8f8fab44363/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
 activity#com.ryanheise.audioservice.AudioServiceActivity
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:11:9-31:20
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:11:9-31:20
 	android:launchMode
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:14:13-43
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:14:13-43
 	android:hardwareAccelerated
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:17:13-47
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:17:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:18:13-55
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:18:13-55
 	android:exported
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:13:13-36
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:13:13-36
 	android:configChanges
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:16:13-163
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:16:13-163
 	android:theme
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:15:13-47
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:15:13-47
 	android:name
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:12:13-75
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:12:13-75
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:23:13-26:17
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:23:13-26:17
 	android:resource
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:25:15-52
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:25:15-52
 	android:name
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:24:15-70
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:24:15-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:27:13-30:29
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:27:13-30:29
 action#android.intent.action.MAIN
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:28:17-68
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:28:17-68
 	android:name
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:29:17-76
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:29:17-76
 	android:name
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:29:27-74
 service#com.ryanheise.audioservice.AudioService
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:32:13-38:15
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:32:13-38:15
 	android:exported
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:34:9-32
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:34:9-32
 	android:foregroundServiceType
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:33:9-54
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:33:9-54
 	android:name
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:32:22-76
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:32:22-76
 intent-filter#action:name:android.media.browse.MediaBrowserService
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:35:7-37:23
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:35:7-37:23
 action#android.media.browse.MediaBrowserService
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:36:9-75
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:36:9-75
 	android:name
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:36:17-72
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:36:17-72
 receiver#com.ryanheise.audioservice.MediaButtonReceiver
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:39:9-44:16
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:39:9-44:16
 	android:exported
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:40:9-32
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:40:9-32
 	android:name
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:39:19-80
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:39:19-80
 intent-filter#action:name:android.intent.action.MEDIA_BUTTON
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:41:7-43:23
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:41:7-43:23
 action#android.intent.action.MEDIA_BUTTON
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:42:9-69
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:42:9-69
 	android:name
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:42:17-66
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:42:17-66
 meta-data#flutterEmbedding
-ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:47:9-49:33
+ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:47:9-49:33
 	android:value
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:49:13-30
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:49:13-30
 	android:name
-		ADDED from /Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:48:13-44
+		ADDED from /Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:48:13-44
 uses-permission#android.permission.BLUETOOTH
-ADDED from [:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-12:38
+ADDED from [:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-12:38
 MERGED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] /Users/a1/.gradle/caches/transforms-3/70a3e02e80319a553b4a671349ad01d8/transformed/jetified-rxandroidble-1.16.0/AndroidManifest.xml:10:5-12:38
 MERGED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] /Users/a1/.gradle/caches/transforms-3/70a3e02e80319a553b4a671349ad01d8/transformed/jetified-rxandroidble-1.16.0/AndroidManifest.xml:10:5-12:38
 	android:maxSdkVersion
-		ADDED from [:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-35
+		ADDED from [:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-35
 	android:name
-		ADDED from [:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-52
+		ADDED from [:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-52
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from [:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-15:38
+ADDED from [:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-15:38
 MERGED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] /Users/a1/.gradle/caches/transforms-3/70a3e02e80319a553b4a671349ad01d8/transformed/jetified-rxandroidble-1.16.0/AndroidManifest.xml:13:5-15:38
 MERGED from [com.polidea.rxandroidble2:rxandroidble:1.16.0] /Users/a1/.gradle/caches/transforms-3/70a3e02e80319a553b4a671349ad01d8/transformed/jetified-rxandroidble-1.16.0/AndroidManifest.xml:13:5-15:38
 	android:maxSdkVersion
-		ADDED from [:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:15:9-35
+		ADDED from [:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:15:9-35
 	android:name
-		ADDED from [:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-58
+		ADDED from [:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-58
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] /Users/a1/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 	android:required

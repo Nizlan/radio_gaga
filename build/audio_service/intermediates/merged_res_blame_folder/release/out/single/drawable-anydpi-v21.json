@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/Users/a1/programs/radio_ga/build/audio_service/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_previous.xml",
-        "source": "/Users/a1/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_previous.xml"
+        "merged": "/Users/a1/programs/radio_gaga/build/audio_service/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_music_note.xml",
+        "source": "/Users/a1/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_music_note.xml"
     },
     {
-        "merged": "/Users/a1/programs/radio_ga/build/audio_service/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_next.xml",
-        "source": "/Users/a1/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_next.xml"
-    },
-    {
-        "merged": "/Users/a1/programs/radio_ga/build/audio_service/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_play.xml",
+        "merged": "/Users/a1/programs/radio_gaga/build/audio_service/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_play.xml",
         "source": "/Users/a1/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_play.xml"
     },
     {
-        "merged": "/Users/a1/programs/radio_ga/build/audio_service/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_pause.xml",
+        "merged": "/Users/a1/programs/radio_gaga/build/audio_service/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_previous.xml",
+        "source": "/Users/a1/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_previous.xml"
+    },
+    {
+        "merged": "/Users/a1/programs/radio_gaga/build/audio_service/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_pause.xml",
         "source": "/Users/a1/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_pause.xml"
     },
     {
-        "merged": "/Users/a1/programs/radio_ga/build/audio_service/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_music_note.xml",
-        "source": "/Users/a1/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_music_note.xml"
+        "merged": "/Users/a1/programs/radio_gaga/build/audio_service/intermediates/merged_res/release/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_next.xml",
+        "source": "/Users/a1/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/drawable-anydpi-v21/media_session_service_notification_ic_skip_to_next.xml"
     }
 ]

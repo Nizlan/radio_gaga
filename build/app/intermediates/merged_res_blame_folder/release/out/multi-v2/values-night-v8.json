@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/a1/programs/radio_ga/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/a1/programs/radio_gaga/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/a1/programs/radio_ga/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/a1/programs/radio_gaga/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

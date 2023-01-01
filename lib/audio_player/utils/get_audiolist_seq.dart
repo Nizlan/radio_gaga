@@ -14,6 +14,5 @@ int getAudioListSeq(List<Playlist> data, int arrSeq, int inArrSeq) {
       }
     }
   }
-  print(seq);
   return seq;
 }

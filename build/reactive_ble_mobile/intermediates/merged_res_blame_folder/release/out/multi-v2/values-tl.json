@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/incremental/mergeReleaseResources/merged.dir/values-tl/values-tl.xml",
+            "outputFile": "/Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_res/release/values-tl/values-tl.xml",
             "map": [
                 {
                     "source": "/Users/a1/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-tl/values-tl.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_res/release/values-tl/values-tl.xml",
+            "outputFile": "/Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/incremental/mergeReleaseResources/merged.dir/values-tl/values-tl.xml",
             "map": [
                 {
                     "source": "/Users/a1/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-tl/values-tl.xml",

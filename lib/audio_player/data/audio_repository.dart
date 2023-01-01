@@ -1,4 +1,5 @@
 import 'package:dio/dio.dart';
+import 'package:flutter/material.dart';
 import 'package:just_audio/just_audio.dart';
 import 'package:radio_ga/constants.dart';
 
@@ -10,6 +11,8 @@ abstract class AudioRepository {
   Future<AudioSource> getAudioById(String playlistId, String id);
 
   Future<Playlist> getPlaylistById(String id);
+
+  String getImageOfPlaylist(String albumName);
 
   Future<List<Playlist>?> getAllPlaylists();
 }
@@ -30,6 +33,12 @@ class LocalAudioRepository implements AudioRepository {
   @override
   Future<Playlist> getPlaylistById(String id) async {
     return LocalData.playlists.firstWhere((e) => e.id == id);
+  }
+
+  @override
+  String getImageOfPlaylist(String albumName) {
+    // TODO: implement getImageOfPlaylist
+    throw UnimplementedError();
   }
 }
 
@@ -66,5 +75,10 @@ class NetworkAudioRepository implements AudioRepository {
     return getPlaylistById(playlistId).then((playlist) => playlist
         .networkPlaylist.children
         .firstWhere((e) => e is UriAudioSource ? e.tag.id == id : false));
+  }
+
+  @override
+  String getImageOfPlaylist(String albumName) {
+    return '${APIConst.baseUrl}/audioSource/image/$albumName/';
   }
 }

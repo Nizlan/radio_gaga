@@ -6,32 +6,32 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
+8-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="31" />
-9-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml
+9-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:3:5-66
-11-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:3:22-64
+11-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:3:5-66
+11-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:3:22-64
 12    <uses-permission android:name="android.permission.WAKE_LOCK" />
-12-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:4:6-68
-12-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:4:23-66
+12-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:4:6-68
+12-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:4:23-66
 13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-13-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:5:5-76
-13-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:5:22-74
+13-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:5:5-76
+13-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:5:22-74
 14    <!-- required for API 18 - 30 -->
 15    <uses-permission
-15-->[:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-12:38
+15-->[:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-12:38
 16        android:name="android.permission.BLUETOOTH"
-16-->[:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-52
+16-->[:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-52
 17        android:maxSdkVersion="30" />
-17-->[:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-35
+17-->[:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-35
 18    <uses-permission
-18-->[:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-15:38
+18-->[:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-15:38
 19        android:name="android.permission.BLUETOOTH_ADMIN"
-19-->[:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-58
+19-->[:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-58
 20        android:maxSdkVersion="30" />
-20-->[:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:15:9-35
+20-->[:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/release/AndroidManifest.xml:15:9-35
 21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- required for API 23 - 30, no android:maxSdkVersion because of a potential breaking change -->
 21-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/a1/.gradle/caches/transforms-3/6ec2c823b2ddfa9d4aff16fd99b56b89/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
 21-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/a1/.gradle/caches/transforms-3/6ec2c823b2ddfa9d4aff16fd99b56b89/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:22-76
@@ -57,8 +57,8 @@
 31        <intent>
 31-->[androidx.media2:media2-session:1.2.0] /Users/a1/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:25:9-27:18
 32            <action android:name="android.media.browse.MediaBrowserService" />
-32-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:36:9-75
-32-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:36:17-72
+32-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:36:9-75
+32-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:36:17-72
 33        </intent>
 34        <intent>
 34-->[androidx.media2:media2-session:1.2.0] /Users/a1/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/AndroidManifest.xml:28:9-30:18
@@ -76,31 +76,31 @@
 41
 42    <application
 43        android:name="android.app.Application"
-43-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:8:9-42
+43-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:8:9-42
 44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 44-->[androidx.core:core:1.7.0] /Users/a1/.gradle/caches/transforms-3/5e083c06c9925c2309f02468fc66e376/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 45        android:icon="@mipmap/ic_launcher"
-45-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:9:9-43
+45-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:9:9-43
 46        android:label="radio_ga"
-46-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:7:9-33
+46-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:7:9-33
 47        android:usesCleartextTraffic="true" >
-47-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:10:9-44
+47-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:10:9-44
 48        <activity
-48-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:11:9-31:20
+48-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:11:9-31:20
 49            android:name="com.ryanheise.audioservice.AudioServiceActivity"
-49-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:12:13-75
+49-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:12:13-75
 50            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-50-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:16:13-163
+50-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:16:13-163
 51            android:exported="true"
-51-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:13:13-36
+51-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:13:13-36
 52            android:hardwareAccelerated="true"
-52-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:17:13-47
+52-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:17:13-47
 53            android:launchMode="singleTop"
-53-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:14:13-43
+53-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:14:13-43
 54            android:theme="@style/LaunchTheme"
-54-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:15:13-47
+54-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:15:13-47
 55            android:windowSoftInputMode="adjustResize" >
-55-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:18:13-55
+55-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:18:13-55
 56
 57            <!--
 58                 Specifies an Android theme to apply to this Activity as soon as
@@ -109,51 +109,51 @@
 61                 to determine the Window background behind the Flutter UI.
 62            -->
 63            <meta-data
-63-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:23:13-26:17
+63-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:23:13-26:17
 64                android:name="io.flutter.embedding.android.NormalTheme"
-64-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:24:15-70
+64-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:24:15-70
 65                android:resource="@style/NormalTheme" />
-65-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:25:15-52
+65-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:25:15-52
 66
 67            <intent-filter>
-67-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:27:13-30:29
+67-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:27:13-30:29
 68                <action android:name="android.intent.action.MAIN" />
-68-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:28:17-68
-68-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:28:25-66
+68-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:28:17-68
+68-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:28:25-66
 69
 70                <category android:name="android.intent.category.LAUNCHER" />
-70-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:29:17-76
-70-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:29:27-74
+70-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:29:17-76
+70-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:29:27-74
 71            </intent-filter>
 72        </activity>
 73
 74        <service
-74-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:32:13-38:15
+74-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:32:13-38:15
 75            android:name="com.ryanheise.audioservice.AudioService"
-75-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:32:22-76
+75-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:32:22-76
 76            android:exported="true"
-76-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:34:9-32
+76-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:34:9-32
 77            android:foregroundServiceType="mediaPlayback" >
-77-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:33:9-54
+77-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:33:9-54
 78            <intent-filter>
-78-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:35:7-37:23
+78-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:35:7-37:23
 79                <action android:name="android.media.browse.MediaBrowserService" />
-79-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:36:9-75
-79-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:36:17-72
+79-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:36:9-75
+79-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:36:17-72
 80            </intent-filter>
 81        </service>
 82
 83        <receiver
-83-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:39:9-44:16
+83-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:39:9-44:16
 84            android:name="com.ryanheise.audioservice.MediaButtonReceiver"
-84-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:39:19-80
+84-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:39:19-80
 85            android:exported="true" >
-85-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:40:9-32
+85-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:40:9-32
 86            <intent-filter>
-86-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:41:7-43:23
+86-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:41:7-43:23
 87                <action android:name="android.intent.action.MEDIA_BUTTON" />
-87-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:42:9-69
-87-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:42:17-66
+87-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:42:9-69
+87-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:42:17-66
 88            </intent-filter>
 89        </receiver>
 90        <!--
@@ -161,11 +161,11 @@
 92             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 93        -->
 94        <meta-data
-94-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:47:9-49:33
+94-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:47:9-49:33
 95            android:name="flutterEmbedding"
-95-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:48:13-44
+95-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:48:13-44
 96            android:value="2" />
-96-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:49:13-30
+96-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:49:13-30
 97
 98        <uses-library
 98-->[androidx.window:window:1.0.0-beta04] /Users/a1/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40

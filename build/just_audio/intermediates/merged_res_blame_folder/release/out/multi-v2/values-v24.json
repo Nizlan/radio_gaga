@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/a1/programs/radio_ga/build/just_audio/intermediates/incremental/mergeReleaseResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/a1/programs/radio_gaga/build/just_audio/intermediates/merged_res/release/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/Users/a1/.gradle/caches/transforms-3/ce91650a2719b8ccb3e16815caf62d93/transformed/media-1.4.1/res/values-v24/values-v24.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/Users/a1/programs/radio_ga/build/just_audio/intermediates/merged_res/release/values-v24/values-v24.xml",
+            "outputFile": "/Users/a1/programs/radio_gaga/build/just_audio/intermediates/incremental/mergeReleaseResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/Users/a1/.gradle/caches/transforms-3/ce91650a2719b8ccb3e16815caf62d93/transformed/media-1.4.1/res/values-v24/values-v24.xml",

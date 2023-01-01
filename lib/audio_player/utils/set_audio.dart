@@ -5,7 +5,7 @@ import '../data/audio_repository.dart';
 import 'list_to_source.dart';
 
 Future<void> setAudioAndPlaylist(AudioPlayer audioPlayer, String audioId,
-    String? playlistId, int audioSeq, bool shuffle) async {
+    String? playlistId, int audioSeq) async {
   final metadata = getAudioMeta(audioPlayer.sequenceState);
   if (!(metadata?.playlistId == playlistId && metadata?.id == audioId)) {
     if ((metadata?.playlistId ?? '') == playlistId) {
@@ -13,8 +13,7 @@ Future<void> setAudioAndPlaylist(AudioPlayer audioPlayer, String audioId,
       return;
     }
     AudioSource source;
-    if (metadata?.playlistId != null && shuffle) {
-      print('seq: $audioSeq');
+    if (metadata?.playlistId != null) {
       setAudio(audioPlayer, audioSeq);
     } else {
       final playlists = await NetworkAudioRepository().getAllPlaylists();

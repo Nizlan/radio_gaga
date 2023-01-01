@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/a1/programs/radio_ga/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/a1/programs/radio_gaga/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
+                {
+                    "source": "/Users/a1/programs/radio_gaga/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "113,118",
+                        "startColumns": "4,4",
+                        "startOffsets": "6902,7210",
+                        "endLines": "117,120",
+                        "endColumns": "12,12",
+                        "endOffsets": "7205,7374"
+                    }
+                },
                 {
                     "source": "/Users/a1/.gradle/caches/transforms-3/52c9781f926af24ac4530a9702e17d3a/transformed/media-1.6.0/res/values/values.xml",
                     "from": {
@@ -54,25 +73,6 @@
                         "endLines": "7,8,9,10,75,146,150,302,319,327",
                         "endColumns": "11,59,51,44,59,24,24,24,24,24",
                         "endOffsets": "289,349,401,446,4620,9071,9268,18390,19504,19897"
-                    }
-                },
-                {
-                    "source": "/Users/a1/programs/radio_ga/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "113,118",
-                        "startColumns": "4,4",
-                        "startOffsets": "6902,7210",
-                        "endLines": "117,120",
-                        "endColumns": "12,12",
-                        "endOffsets": "7205,7374"
                     }
                 },
                 {

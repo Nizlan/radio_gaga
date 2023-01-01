@@ -1,11 +1,11 @@
 <lint-module
     format="1"
-    dir="/Users/a1/programs/radio_ga/android/app"
+    dir="/Users/a1/programs/radio_gaga/android/app"
     name=":app"
     type="APP"
     maven="android:app:"
     gradle="7.1.2"
-    buildFolder="/Users/a1/programs/radio_ga/build/app"
+    buildFolder="/Users/a1/programs/radio_gaga/build/app"
     bootClassPath="/Users/a1/Library/Android/sdk/platforms/android-31/android.jar:/Users/a1/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-31">

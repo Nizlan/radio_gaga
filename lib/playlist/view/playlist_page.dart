@@ -17,6 +17,7 @@ class PlaylistPage extends ConsumerWidget {
         return AudioItem(
           audioData: playlists[id].audioList[i],
           audioSeq: getAudioListSeq(playlists, id, i),
+          seqInPlaylist: i,
           playlist: playlists[id],
         );
       },

@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/a1/programs/radio_ga/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/a1/programs/radio_ga/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/a1/programs/radio_ga/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/a1/programs/radio_gaga/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/a1/programs/radio_gaga/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/a1/programs/radio_gaga/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/Users/a1/programs/radio_ga/android@@:just_audio::release"
-      jars="/Users/a1/programs/radio_ga/build/just_audio/.transforms/1de5751f1156382711588d613b19930f/transformed/out/jars/classes.jar"
+      name="/Users/a1/programs/radio_gaga/android@@:just_audio::release"
+      jars="/Users/a1/programs/radio_gaga/build/just_audio/.transforms/49d9d5d597ae18cdd02b8674e2052f9b/transformed/out/jars/classes.jar"
       resolved="com.ryanheise.just_audio:just_audio:unspecified"
-      folder="/Users/a1/programs/radio_ga/build/just_audio/.transforms/1de5751f1156382711588d613b19930f/transformed/out"
+      folder="/Users/a1/programs/radio_gaga/build/just_audio/.transforms/49d9d5d597ae18cdd02b8674e2052f9b/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -17,10 +17,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/a1/programs/radio_ga/android@@:reactive_ble_mobile::release"
-      jars="/Users/a1/programs/radio_ga/build/reactive_ble_mobile/.transforms/0594868b1cac59dcddf4f28bd9657246/transformed/out/jars/classes.jar"
+      name="/Users/a1/programs/radio_gaga/android@@:reactive_ble_mobile::release"
+      jars="/Users/a1/programs/radio_gaga/build/reactive_ble_mobile/.transforms/e8ecac5f1cfff76ae6850d809ff26e11/transformed/out/jars/classes.jar"
       resolved="com.signify.hue.flutterreactiveblelib:reactive_ble_mobile:unspecified"
-      folder="/Users/a1/programs/radio_ga/build/reactive_ble_mobile/.transforms/0594868b1cac59dcddf4f28bd9657246/transformed/out"
+      folder="/Users/a1/programs/radio_gaga/build/reactive_ble_mobile/.transforms/e8ecac5f1cfff76ae6850d809ff26e11/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -30,10 +30,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/a1/programs/radio_ga/android@@:audio_service::release"
-      jars="/Users/a1/programs/radio_ga/build/audio_service/.transforms/e5943981048021ea772169f01b27e6bf/transformed/out/jars/classes.jar"
+      name="/Users/a1/programs/radio_gaga/android@@:audio_service::release"
+      jars="/Users/a1/programs/radio_gaga/build/audio_service/.transforms/2b4dc70bec7e576fcf8c8dbb892870b2/transformed/out/jars/classes.jar"
       resolved="com.ryanheise.audioservice:audio_service:unspecified"
-      folder="/Users/a1/programs/radio_ga/build/audio_service/.transforms/e5943981048021ea772169f01b27e6bf/transformed/out"
+      folder="/Users/a1/programs/radio_gaga/build/audio_service/.transforms/2b4dc70bec7e576fcf8c8dbb892870b2/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -43,10 +43,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/a1/programs/radio_ga/android@@:sqflite::release"
-      jars="/Users/a1/programs/radio_ga/build/sqflite/.transforms/8557251ade2e671a790328652e464379/transformed/out/jars/classes.jar"
+      name="/Users/a1/programs/radio_gaga/android@@:sqflite::release"
+      jars="/Users/a1/programs/radio_gaga/build/sqflite/.transforms/5fd7e371b41f07b96576998a468a0e01/transformed/out/jars/classes.jar"
       resolved="com.tekartik.sqflite:sqflite:unspecified"
-      folder="/Users/a1/programs/radio_ga/build/sqflite/.transforms/8557251ade2e671a790328652e464379/transformed/out"
+      folder="/Users/a1/programs/radio_gaga/build/sqflite/.transforms/5fd7e371b41f07b96576998a468a0e01/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -56,10 +56,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/a1/programs/radio_ga/android@@:path_provider_android::release"
-      jars="/Users/a1/programs/radio_ga/build/path_provider_android/.transforms/c009c033ba538f8a41d81b15c35c2c76/transformed/out/jars/classes.jar"
+      name="/Users/a1/programs/radio_gaga/android@@:path_provider_android::release"
+      jars="/Users/a1/programs/radio_gaga/build/path_provider_android/.transforms/c6be0be2fbd0e5906d92fddf5441c264/transformed/out/jars/classes.jar"
       resolved="io.flutter.plugins.pathprovider:path_provider_android:unspecified"
-      folder="/Users/a1/programs/radio_ga/build/path_provider_android/.transforms/c009c033ba538f8a41d81b15c35c2c76/transformed/out"
+      folder="/Users/a1/programs/radio_gaga/build/path_provider_android/.transforms/c6be0be2fbd0e5906d92fddf5441c264/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -69,10 +69,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/a1/programs/radio_ga/android@@:audio_session::release"
-      jars="/Users/a1/programs/radio_ga/build/audio_session/.transforms/2d0f707011fb8b43b4a6ca8caa440d8d/transformed/out/jars/classes.jar"
+      name="/Users/a1/programs/radio_gaga/android@@:audio_session::release"
+      jars="/Users/a1/programs/radio_gaga/build/audio_session/.transforms/c41f5750a61a118fac0d6ecf7814677d/transformed/out/jars/classes.jar"
       resolved="com.ryanheise.audio_session:audio_session:unspecified"
-      folder="/Users/a1/programs/radio_ga/build/audio_session/.transforms/2d0f707011fb8b43b4a6ca8caa440d8d/transformed/out"
+      folder="/Users/a1/programs/radio_gaga/build/audio_session/.transforms/c41f5750a61a118fac0d6ecf7814677d/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/a1/programs/radio_ga/build/audio_session/intermediates/incremental/mergeReleaseResources/merged.dir/values-da/values-da.xml",
+            "outputFile": "/Users/a1/programs/radio_gaga/build/audio_session/intermediates/incremental/mergeReleaseResources/merged.dir/values-da/values-da.xml",
             "map": [
                 {
                     "source": "/Users/a1/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/values-da/values-da.xml",
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "outputFile": "/Users/a1/programs/radio_ga/build/audio_session/intermediates/merged_res/release/values-da/values-da.xml",
+            "outputFile": "/Users/a1/programs/radio_gaga/build/audio_session/intermediates/merged_res/release/values-da/values-da.xml",
             "map": [
                 {
                     "source": "/Users/a1/.gradle/caches/transforms-3/aa7263188b29434019ae8934cbefd4da/transformed/jetified-media2-session-1.2.0/res/values-da/values-da.xml",

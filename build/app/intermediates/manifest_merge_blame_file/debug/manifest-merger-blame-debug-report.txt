@@ -13,26 +13,26 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:3:5-66
-15-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:3:22-64
+15-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:3:5-66
+15-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:3:22-64
 16    <uses-permission android:name="android.permission.WAKE_LOCK" />
-16-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:4:6-68
-16-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:4:23-66
+16-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:4:6-68
+16-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:4:23-66
 17    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- required for API 18 - 30 -->
-17-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:5:5-76
-17-->/Users/a1/programs/radio_ga/android/app/src/main/AndroidManifest.xml:5:22-74
+17-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:5:5-76
+17-->/Users/a1/programs/radio_gaga/android/app/src/main/AndroidManifest.xml:5:22-74
 18    <uses-permission
-18-->[:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-12:38
+18-->[:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-12:38
 19        android:name="android.permission.BLUETOOTH"
-19-->[:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-52
+19-->[:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-52
 20        android:maxSdkVersion="30" />
-20-->[:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-35
+20-->[:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-35
 21    <uses-permission
-21-->[:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-15:38
+21-->[:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-15:38
 22        android:name="android.permission.BLUETOOTH_ADMIN"
-22-->[:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-58
+22-->[:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-58
 23        android:maxSdkVersion="30" />
-23-->[:reactive_ble_mobile] /Users/a1/programs/radio_ga/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-35
+23-->[:reactive_ble_mobile] /Users/a1/programs/radio_gaga/build/reactive_ble_mobile/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-35
 24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- required for API 23 - 30, no android:maxSdkVersion because of a potential breaking change -->
 24-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/a1/.gradle/caches/transforms-3/6ec2c823b2ddfa9d4aff16fd99b56b89/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:5-79
 24-->[com.google.android.exoplayer:exoplayer-core:2.18.1] /Users/a1/.gradle/caches/transforms-3/6ec2c823b2ddfa9d4aff16fd99b56b89/transformed/jetified-exoplayer-core-2.18.1/AndroidManifest.xml:24:22-76

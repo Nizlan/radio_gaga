@@ -11,17 +11,20 @@ import '../../audio_player/data/models/audio_data.dart';
 import '../../audio_player/providers.dart';
 import '../../audio_player/utils/get_audio_meta.dart';
 import '../../audio_player/utils/set_audio.dart';
+import '../../shuffle/shuffle.dart';
 import '../data/audio_id.dart';
 
 class AudioItem extends ConsumerWidget {
   final AudioData audioData;
   final int audioSeq;
   final Playlist playlist;
+  final int seqInPlaylist;
   const AudioItem(
       {super.key,
       required this.audioData,
       required this.audioSeq,
-      required this.playlist});
+      required this.playlist,
+      required this.seqInPlaylist});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
@@ -31,7 +34,7 @@ class AudioItem extends ConsumerWidget {
       child: InkWell(
         onTap: () async {
           await setAudioAndPlaylist(
-              audioPlayer, audioData.filename, playlist.id, audioSeq, true);
+              audioPlayer, audioData.filename, playlist.id, audioSeq);
         },
         child: Row(
           children: [
@@ -42,7 +45,7 @@ class AudioItem extends ConsumerWidget {
               child: SequenceStateWidget(
                 audioId: audioData.filename,
                 playlistId: playlist.id,
-                audioSeq: audioSeq,
+                audioSeq: seqInPlaylist,
                 audioPlayer: audioPlayer,
               ),
             ),
@@ -51,7 +54,10 @@ class AudioItem extends ConsumerWidget {
               padding: const EdgeInsets.fromLTRB(0, 10, 10, 10),
               child: Text(
                 audioData.title,
-                style: const TextStyle(color: Colors.white, fontSize: 16),
+                style: const TextStyle(
+                    color: Colors.black,
+                    fontSize: 16,
+                    fontWeight: FontWeight.w500),
               ),
             )),
           ],
@@ -99,7 +105,7 @@ class SequenceStateWidget extends StatelessWidget {
               )
             : Text((audioSeq + 1).toString(),
                 textAlign: TextAlign.center,
-                style: const TextStyle(color: Colors.white));
+                style: const TextStyle(color: Colors.black));
       },
     );
   }
