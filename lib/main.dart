@@ -1,10 +1,10 @@
+import 'package:audio_session/audio_session.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:just_audio_background/just_audio_background.dart';
 import 'package:radio_ga/main_page.dart';
-import 'navigation/navigation.dart';
 
 Future<void> main() async {
   await JustAudioBackground.init(
@@ -14,6 +14,8 @@ Future<void> main() async {
   );
   await Hive.initFlutter();
   SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersive);
+  final session = await AudioSession.instance;
+  await session.configure(const AudioSessionConfiguration.speech());
   runApp(const ProviderScope(child: MyApp()));
 }
 

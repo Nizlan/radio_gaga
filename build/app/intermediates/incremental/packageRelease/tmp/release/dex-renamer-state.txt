@@ -1,4 +1,4 @@
-#Mon Jan 02 00:38:32 MSK 2023
+#Mon Jan 02 16:35:56 MSK 2023
 base.0=/Users/a1/programs/radio_gaga/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
